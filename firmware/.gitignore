@@ -1,0 +1,43 @@
+# IAR build output directories
+Debug/
+Release/
+settings/
+
+# Compiled/linked outputs
+*.hex
+*.bin
+*.elf
+*.out
+*.axf
+*.map
+
+# Intermediate object files
+*.o
+*.obj
+*.a
+*.lib
+
+# IAR generated index/database files
+*.pbi
+*.pbd
+*.browse
+*.linf
+*.dep
+
+# IAR session/simulation files
+*.sim
+*.dbgdt
+*.wsdt
+*.wspos
+
+# Debugger / project generated config
+*.xml
+
+# Log/listing files
+*.log
+*.lst
+*.htm
+*.html
+*.lnp
+*.crf
+*.d
